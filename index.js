@@ -5,7 +5,7 @@ const cheerio = require('cheerio');  // BY KAKU AND ONE GUY
 //SET PORT, APPNAME, NOT EXPRESS XD
 const app = express();
 const port = 3000;
-const appname = "SNIFD 2FA";
+const appname = "MDSMP";
 var success = false;
 var request1 = null;
 var request2 = null;
